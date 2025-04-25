@@ -1,2 +1,2 @@
 # age-calculator
-https://akbiplobs.github.io/age-calculator/
+https://akbiplobx.github.io/age-calculator/
